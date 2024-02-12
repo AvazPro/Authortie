@@ -39,7 +39,7 @@ p {
     position: absolute;
     width: 100%;
     padding: 10px 30px;
-    background-color: white;
+    background-color: yellow;
 }
 .show {
     background-color: rgba(255, 255, 255, 0.63);
